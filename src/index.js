@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './lift-state-up/Calculator';
+import App from './composition/SignUpDialog';
 
 ReactDOM.render(<App />, document.getElementById('root'));
